@@ -1,12 +1,12 @@
 # Mission Control
 
-> ##### license
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
+ ##### License
+> ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 ##### Frontend Management
-[![UI build](https://img.shields.io/badge/UI%20build-create--react--app-%2361DAFB)](https://reactjs.org/docs/create-a-new-react-app.html)
-[![state manager](https://img.shields.io/badge/state%20manager-useContext-%CA4245)](https://reactjs.org/docs/jsx-in-depth.html)
-[![format analyzer](https://img.shields.io/badge/format%20analyzer-eslint-%234B32C3)](https://eslint.org/docs/user-guide/getting-started)
+> [![UI build](https://img.shields.io/badge/UI%20build-create--react--app-%2361DAFB)](https://reactjs.org/docs/create-a-new-react-app.html)
+> [![state manager](https://img.shields.io/badge/state%20manager-useContext-%CA4245)](https://reactjs.org/docs/jsx-in-depth.html)
+> [![format analyzer](https://img.shields.io/badge/format%20analyzer-eslint-%234B32C3)](https://eslint.org/docs/user-guide/getting-started)
 
 ###### Styling
 [![styling: sass](https://img.shields.io/badge/styling-sass-%23CC6699)](https://sass-lang.com/documentation)
