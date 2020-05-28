@@ -9,9 +9,9 @@
 > [![format analyzer](https://img.shields.io/badge/format%20analyzer-eslint-%234B32C3)](https://eslint.org/docs/user-guide/getting-started)
 
 ###### Styling
-[![styling: sass](https://img.shields.io/badge/styling-sass-%23CC6699)](https://sass-lang.com/documentation)
-[![UI framework: semantic UI](https://img.shields.io/badge/UI%20framework-semantic%20ui-%2306D6A9)](https://semantic-ui.com/introduction/getting-started.html)
-[![code formatter: prettier](https://img.shields.io/badge/code%20formatter-prettier-%23F7B93E)](https://prettier.io/docs/en/)
+> [![styling: sass](https://img.shields.io/badge/styling-sass-%23CC6699)](https://sass-lang.com/documentation)
+> [![UI framework: semantic UI](https://img.shields.io/badge/UI%20framework-semantic%20ui-%2306D6A9)](https://semantic-ui.com/introduction/getting-started.html)
+> [![code formatter: prettier](https://img.shields.io/badge/code%20formatter-prettier-%23F7B93E)](https://prettier.io/docs/en/)
 
 
 ### Development Team
