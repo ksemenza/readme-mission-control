@@ -14,7 +14,7 @@
 > [![data-model: prisma](https://img.shields.io/badge/data--model-prisma-%230B2C4A)](https://www.prisma.io/docs/)
 > [![database system: postgress](https://img.shields.io/badge/database%20system-postgres-%23336791)](https://www.postgresql.org/about/)
 
-#### Command Backend Setup
+##### Command Backend Setup
 > [![run cmd: make files](https://img.shields.io/badge/run%20cmd-makes%20files-%23FF7100)](https://www.tutorialspoint.com/unix_commands/make.htm)
 > [![windows termial extension: wsl](https://img.shields.io/badge/windows%20os%20terminal%20extension-WSL-%23FCC624)](https://ubuntu.com/wsl)
 
