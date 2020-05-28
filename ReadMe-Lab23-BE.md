@@ -8,16 +8,16 @@
 [![BE container: docker](https://img.shields.io/badge/BE%20container-docker-%232496ED)](https://docs.docker.com/)
 
 ##### Backend Tech Stack
-[![SDL: graphql](https://img.shields.io/badge/SDL-graphql-%23E10098)](https://graphql.org/)
-[![server: apollo](https://img.shields.io/badge/server-apollo--graphql-%23311C87)](https://www.apollographql.com/docs/apollo-server/)
-[![data-model: prisma](https://img.shields.io/badge/data--model-prisma-%230B2C4A)](https://www.prisma.io/)
+[![SDL: graphql](https://img.shields.io/badge/SDL-graphql-%23E10098)](https://graphql.org/learn/)
+[![server: apollo](https://img.shields.io/badge/server-apollo--graphql-%23311C87)](https://www.apollographql.com/docs/)
+[![data-model: prisma](https://img.shields.io/badge/data--model-prisma-%230B2C4A)](https://www.prisma.io/docs/)
 
 #### Command Backend Setup
 [![run cmd: make files](https://img.shields.io/badge/run%20cmd-makes%20files-%23FF7100)](https://www.tutorialspoint.com/unix_commands/make.htm)
 [![windows termial extension: wsl](https://img.shields.io/badge/windows%20os%20terminal%20extension-WSL-%23FCC624)](https://ubuntu.com/wsl)
 
 ##### Deployment Service
-[![deployment: aws amplify](https://img.shields.io/badge/deployment-aws%20amplify-%23232F3E)](https://docs.aws.amazon.com/amplify/latest/userguide/welcome.html)
+[![deployment: aws amplify](https://img.shields.io/badge/deployment-aws%20amplify-%23232F3E)](https://docs.aws.amazon.com/amplify/)
 
 ##### Frontend Management
 [![UI build](https://img.shields.io/badge/UI%20build-create--react--app-%2361DAFB)](https://reactjs.org/docs/create-a-new-react-app.html)
