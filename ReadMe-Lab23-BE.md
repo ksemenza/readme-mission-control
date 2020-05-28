@@ -21,12 +21,12 @@
 
 ##### Frontend Management
 [![UI build](https://img.shields.io/badge/UI%20build-create--react--app-%2361DAFB)](https://reactjs.org/docs/create-a-new-react-app.html)
-[![state manager](https://img.shields.io/badge/state%20manager-useContext-%CA4245)](https://reactjs.org/docs/legacy-context.html#how-to-use-context)
+[![state manager](https://img.shields.io/badge/state%20manager-useContext-%CA4245)](https://reactjs.org/docs/jsx-in-depth.html)
 
 ###### Styling
-[![styling: sass](https://img.shields.io/badge/styling-sass-%23CC6699)](https://sass-lang.com/)
-[![UI framework: semantic UI](https://img.shields.io/badge/UI%20framework-semantic%20ui-%2306D6A9)](https://semantic-ui.com/)
-[![code formatter: prettier](https://img.shields.io/badge/code%20formatter-prettier-%23F7B93E)](https://github.com/prettier/prettier)
+[![styling: sass](https://img.shields.io/badge/styling-sass-%23CC6699)](https://sass-lang.com/documentation)
+[![UI framework: semantic UI](https://img.shields.io/badge/UI%20framework-semantic%20ui-%2306D6A9)](https://semantic-ui.com/introduction/getting-started.html)
+[![code formatter: prettier](https://prettier.io/docs/en/)
 
 
 ### Development Team
