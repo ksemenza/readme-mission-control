@@ -16,6 +16,9 @@
 > [![UI framework: semantic UI](https://img.shields.io/badge/UI%20framework-semantic%20ui-%2306D6A9)](https://semantic-ui.com/introduction/getting-started.html)
 > [![code style: prettier](https://img.shields.io/badge/code%20style-prettier-%23F7B93E)](https://prettier.io/docs/en/)
 
+##### Deployment Service
+> [![deployment: aws amplify](https://img.shields.io/badge/deployment-aws%20amplify-%23232F3E)](https://docs.aws.amazon.com/amplify/)
+
 
 ### Development Team
 
