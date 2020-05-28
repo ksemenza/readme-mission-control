@@ -30,6 +30,16 @@
 |                     [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/ksemenza)                     |                       [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/SilverMaiden)                        |                        [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Dlray89)                        |                        [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/nomadkitty)
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/kim-semenza-2b4961199) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](http://www.linkedin.com/in/humaira-syed) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/dapperdave1914) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jojo-zhang) |
 
+### Support Staff
+
+   Position |   Name   
+----------- | -----------
+Team Lead | Candace Rossi
+Section Lead | Ami Scott
+Product Manager | Parth Shah
+Engineer Manager | Ryan Hamblin
+Architecture Manager | Bernie Durfee
+  Stakeholder | Jess Martin
 
 ## Overview
 
