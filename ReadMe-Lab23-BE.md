@@ -12,6 +12,7 @@
 > [![SDL: graphql](https://img.shields.io/badge/SDL-graphql-%23E10098)](https://graphql.org/learn/)
 > [![server: apollo](https://img.shields.io/badge/server-apollo--graphql-%23311C87)](https://www.apollographql.com/docs/)
 > [![data-model: prisma](https://img.shields.io/badge/data--model-prisma-%230B2C4A)](https://www.prisma.io/docs/)
+> [![database system: postgress](https://img.shields.io/badge/database%20system-postgres-%23336791)](https://www.postgresql.org/about/)
 
 #### Command Backend Setup
 > [![run cmd: make files](https://img.shields.io/badge/run%20cmd-makes%20files-%23FF7100)](https://www.tutorialspoint.com/unix_commands/make.htm)
@@ -30,14 +31,14 @@
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/kim-semenza-2b4961199) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](http://www.linkedin.com/in/humaira-syed) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/dapperdave1914) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jojo-zhang) |
 
 
-## Project Overview
+## Overview
 
 
 Mission Control is a system that provisions, tracks, monitors and controls all of the IT resources (virtual, physical, non-physical and logical) for every product built and maintained by your organization. It allows you to keep tabs on deadlines, team members, costs, and everything you need to push your product across the finish line.
 
 When operating at scale, it's easy to get lost in a sea of information. Mission Control provides the clarity and centralization you need to assess your team's productivity and make executive decisions. Mission Control is a one-stop-shop that allows you to get the information you need and focus on what matters most - execution.
 
-### Key Features
+### Features Add
 
 - Not just for products - we also track your projects, allowing for a top-level view of your organization
 - For admins - the ability to view every single product and project in your organization w/ related APIs
@@ -45,29 +46,40 @@ When operating at scale, it's easy to get lost in a sea of information. Mission 
 - Simple user promotion - admins can promote and demote other users in a snap
 - Sync with your data - simply sign up with your work email address, and your data will sync automatically with your database
 
-## Tech Stack
+## Tech Stack Details
 
-### Front end built using:
+### Back end built using:
 
-#### React
+#### Prismatopia
 
-- React is a fantastic choice for building dynamic, interactive UIs. Mission Control is a complex website with a nested component structure, and has demanding relationships with multiple APIs. React allows us to meet the platform's needs efficiently, and helps keep everything organized behind the scenes.
+- DETAILS HERE
 
-#### urql
+#### Docker
 
-- urql is a lightweight, powerful, and easy to use alternative to bulky GraphQL clients. urql helps you to rapidly use GraphQL in your apps without complex configuration or large API overhead. urql's API is intuitive to use, with full support for GraphQL Queries, Mutations and Subscriptions.
+- DETAILS HERE
 
-#### Sass/SCSS
+#### Graphql
 
-- Nested CSS is a must when styling your application. SCSS not only allows us as developers to write CSS quickly, but also creates an intuitive flow for later revisions. Add in variables, mixins, and functions, and CSS (arguably) is elevated to a production level.
+- DETAILS HERE
+#### Prisma
 
-#### React Router
+- DETAILS HERE
 
-- Single page applications have special needs, particularly when it comes to routing the user from page-to-page. React router allows for the easy transport of the site's users whilst retaining SPA functionality. And with the new React Router hooks, we can do all of this inside of the functional programming paradigm.
+#### Apollo
 
-#### OKTA
+- DETAILS HERE
 
-- OKTA provides cloud software that helps us manage and secure user authentication into modern applications, and for developers to build identity controls into applications, website web services and devices.
+#### WSL
+
+- DETAILS HERE
+
+#### Make Files
+
+- DETAILS HERE
+
+#### PostGres
+
+- DETAILS HERE
 
 
 # Environment Variables
