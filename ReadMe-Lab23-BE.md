@@ -96,39 +96,32 @@ When operating at scale, it's easy to get lost in a sea of information. Mission 
 
 There should be a .env file containing the following:'
 
-- [ ] APOLLO_CONTAINER_IMAGE=The repository and tag for storing the Apollo Docker image
+- [ ] **APOLLO_CONTAINER_IMAGE**=_The repository and tag for storing the Apollo Docker image
 
-- [ ] APOLLO_TOKEN_ENDPOINT=The OAuth token endpoint
+- [ ] **APOLLO_TOKEN_ENDPOINT**=_The OAuth token endpoint
 
-- [ ] JWKS_URI=The OAuth endpoint for retrieving the JWKS keys
+- [ ] **JWKS_URI**=_The OAuth endpoint for retrieving the JWKS keys
 
-- [ ] JWT_ISSUER=The string that is expected to be in the issuer field of the JWT
+- [ ] **JWT_ISSUER**=_The string that is expected to be in the issuer field of the JWT
 
-- [ ] APOLLO_CLIENT_ID=A client id and secret the Makefile can use to retrieve an IdP token
-- [ ] APOLLO_CLIENT_SECRET=here-is-a-secret
+- [ ] **APOLLO_CLIENT_ID**=_A client id and secret the Makefile can use to retrieve an IdP token
+- [ ] **APOLLO_CLIENT_SECRET**=_here-is-a-secret
 
-- [ ] **APOLLO_TEST_USERNAME=__A test user that the Makefile will use to generate a JWT using the IdP
-- [ ] APOLLO_TEST_PASSWORD=***password***
-- [ ] PRISMA_ENDPOINT=Does not connect to the front end itself rather commicates with apollo to reach the client-side
-- [ ] PRISMA_SECRET=secret
-- [ ] PRISMA_MANAGEMENT_API_SECRET=anothersecret
+- [ ] **APOLLO_TEST_USERNAME**=_A test user that the Makefile will use to generate a JWT using the IdP
+- [ ] **APOLLO_TEST_PASSWORD**=_password
+- [ ] **PRISMA_ENDPOINT**=_Does not connect to the front end itself rather commicates with apollo to reach the client-side
+- [ ] **PRISMA_SECRET**=_secret
+- [ ] **PRISMA_MANAGEMENT_API_SECRET**=_anothersecret
 
 
-- [ ] SENDGRID_API_KEY=Mission Control Specific Environment Variables
-- [ ] CODE_CLIMATE_API=Mission Control Specific Environment Variables
-- [ ] CODE_CLIMATE_TOKEN=Mission Control Specific Environment Variables
-- [ ] GIT_HUB_API=Mission Control Specific Environment Variables
-- [ ] GIT_HUB_TOKEN=Mission Control Specific Environment Variables
+- [ ] **SENDGRID_API_KEY**=_Mission Control Specific Environment Variables
+- [ ] **CODE_CLIMATE_API**=_Mission Control Specific Environment Variables
+- [ ] **CODE_CLIMATE_TOKEN**=_Mission Control Specific Environment Variables
+- [ ] **GIT_HUB_API=Mission**=_Control Specific Environment Variables
+- [ ] **GIT_HUB_TOKEN=Mission**=_Control Specific Environment Variables
 
-# Installation Instructions
+# Setup Instructions
 
-Clone this repo into your local, and run `yarn` to install your dependencies.
-
-## Other Scripts
-
-    * build - `yarn build`
-    * start - `yarn start`
-    * test - `yarn test`
 
 # Contributing
 
