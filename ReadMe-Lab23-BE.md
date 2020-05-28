@@ -94,10 +94,31 @@ When operating at scale, it's easy to get lost in a sea of information. Mission 
 
 # Environment Variables
 
-In order for the app to function correctly, the user must set up their own environment variables. There should be a .env file containing the following:
+There should be a .env file containing the following:'
 
-    *  REACT_APP_ROLE_KEY - this is the encryption key for the user's role (determines what dashboard they have access to). Choose a secure key (can be anything you want), and set up as a variable in your local application. The production key can be found in the AWS Amplify application
-    *  REACT_APP_MISSION_CONTROL_ENDPOINT - can be found in the AWS Amplify application. This is the authentication API
+- [ ] APOLLO_CONTAINER_IMAGE=The repository and tag for storing the Apollo Docker image
+
+- [ ] APOLLO_TOKEN_ENDPOINT=The OAuth token endpoint
+
+- [ ] JWKS_URI=The OAuth endpoint for retrieving the JWKS keys
+
+- [ ] JWT_ISSUER=The string that is expected to be in the issuer field of the JWT
+
+- [ ] APOLLO_CLIENT_ID=A client id and secret the Makefile can use to retrieve an IdP token
+- [ ] APOLLO_CLIENT_SECRET=here-is-a-secret
+
+- [ ] **APOLLO_TEST_USERNAME=__A test user that the Makefile will use to generate a JWT using the IdP
+- [ ] APOLLO_TEST_PASSWORD=***password***
+- [ ] PRISMA_ENDPOINT=Does not connect to the front end itself rather commicates with apollo to reach the client-side
+- [ ] PRISMA_SECRET=secret
+- [ ] PRISMA_MANAGEMENT_API_SECRET=anothersecret
+
+
+- [ ] SENDGRID_API_KEY=Mission Control Specific Environment Variables
+- [ ] CODE_CLIMATE_API=Mission Control Specific Environment Variables
+- [ ] CODE_CLIMATE_TOKEN=Mission Control Specific Environment Variables
+- [ ] GIT_HUB_API=Mission Control Specific Environment Variables
+- [ ] GIT_HUB_TOKEN=Mission Control Specific Environment Variables
 
 # Installation Instructions
 
@@ -148,7 +169,7 @@ These contribution guidelines have been adapted from [this good-Contributing.md-
 
 ## Documentation
 
-See [Backend Documentation](https://github.com/Lambda-School-Labs/mission-control-be) for details on the backend of our project.
+See [Frontend Documentation](https://github.com/Lambda-School-Labs/mission-control-be) for details on the backend of our project.
 
 
 ## Contributors
