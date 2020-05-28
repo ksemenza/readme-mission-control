@@ -1,10 +1,12 @@
-# Mission Control
+# Mission Control FE
+### Lab 23
 
  ##### License
 > ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 ##### Frontend Management
 > [![UI build](https://img.shields.io/badge/UI%20build-create--react--app-%2361DAFB)](https://reactjs.org/docs/create-a-new-react-app.html)
+> [![middleware](https://img.shields.io/badge/middleware-urql-%23525DDC)](https://formidable.com/open-source/urql/docs/)
 > [![user managment](https://img.shields.io/badge/user%20management-okta-%23008FD3)](https://developer.okta.com/docs/)
 > [![state manager](https://img.shields.io/badge/state%20manager-useContext-%CA4245)](https://reactjs.org/docs/jsx-in-depth.html)
 > [![code formatter](https://img.shields.io/badge/code%20formatter-eslint-%234B32C3)](https://eslint.org/docs/user-guide/getting-started)
@@ -22,6 +24,17 @@
 |      [<img src="https://avatars1.githubusercontent.com/u/19755615?s=460&u=aae40d68b0206c4ce2eff6cdba9015a4c2888ad8&v=4" width = "200" />](https://github.com/)             |      [<img src="https://media-exp1.licdn.com/dms/image/C5603AQGguImphoxi3w/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=d_1qFUjt80Qt3SYA5Y22cd3AfqStnDagJDwRJJC3EVY" width = "200" />](https://github.com/)             |      [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFdEIMdK4nzbg/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=t7Pz5vPhR7AstxqPtywSeYJybp_gH9T6m3GsX8mjzeI" width = "200" />](https://github.com/)             |      [<img src="https://media-exp1.licdn.com/dms/image/C5603AQFSuooXlJDePQ/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=CXUFIEsNmIrg2LRtgvNkd1UkkADohA1QmkvOwNiwxtM" width = "200" />](https://github.com/)             |
 |                     [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/ksemenza)                     |                       [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/SilverMaiden)                        |                        [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Dlray89)                        |                        [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/nomadkitty)
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/kim-semenza-2b4961199) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](http://www.linkedin.com/in/humaira-syed) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/dapperdave1914) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jojo-zhang) |
+
+### Support Staff
+
+   Position |   Name   
+----------- | -----------
+Team Lead | Candace Rossi
+Section Lead | Ami Scott
+Product Manager | Parth Shah
+Engineer Manager | Ryan Hamblin
+Architecture Manager | Bernie Durfee
+  Stakeholder | Jess Martin
 
 
 ## Project Overview
