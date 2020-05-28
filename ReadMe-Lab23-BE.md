@@ -1,23 +1,24 @@
-# Mission Control
+# Mission Control BE
+### Lab 23
 
 ##### Licsence
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 ##### Compilers
-[![build compiler: prismatopia](https://img.shields.io/badge/build%20compiler-prismatopia-ff69b4)](https://github.com/Lambda-School-Labs/prismatopia)
-[![BE container: docker](https://img.shields.io/badge/BE%20container-docker-%232496ED)](https://docs.docker.com/)
+> [![build compiler: prismatopia](https://img.shields.io/badge/build%20compiler-prismatopia-ff69b4)](https://github.com/Lambda-School-Labs/prismatopia)
+> [![BE container: docker](https://img.shields.io/badge/BE%20container-docker-%232496ED)](https://docs.docker.com/)
 
 ##### Backend Tech Stack
-[![SDL: graphql](https://img.shields.io/badge/SDL-graphql-%23E10098)](https://graphql.org/learn/)
-[![server: apollo](https://img.shields.io/badge/server-apollo--graphql-%23311C87)](https://www.apollographql.com/docs/)
-[![data-model: prisma](https://img.shields.io/badge/data--model-prisma-%230B2C4A)](https://www.prisma.io/docs/)
+> [![SDL: graphql](https://img.shields.io/badge/SDL-graphql-%23E10098)](https://graphql.org/learn/)
+> [![server: apollo](https://img.shields.io/badge/server-apollo--graphql-%23311C87)](https://www.apollographql.com/docs/)
+> [![data-model: prisma](https://img.shields.io/badge/data--model-prisma-%230B2C4A)](https://www.prisma.io/docs/)
 
 #### Command Backend Setup
-[![run cmd: make files](https://img.shields.io/badge/run%20cmd-makes%20files-%23FF7100)](https://www.tutorialspoint.com/unix_commands/make.htm)
-[![windows termial extension: wsl](https://img.shields.io/badge/windows%20os%20terminal%20extension-WSL-%23FCC624)](https://ubuntu.com/wsl)
+> [![run cmd: make files](https://img.shields.io/badge/run%20cmd-makes%20files-%23FF7100)](https://www.tutorialspoint.com/unix_commands/make.htm)
+> [![windows termial extension: wsl](https://img.shields.io/badge/windows%20os%20terminal%20extension-WSL-%23FCC624)](https://ubuntu.com/wsl)
 
 ##### Deployment Service
-[![deployment: aws amplify](https://img.shields.io/badge/deployment-aws%20amplify-%23232F3E)](https://docs.aws.amazon.com/amplify/)
+> [![deployment: aws amplify](https://img.shields.io/badge/deployment-aws%20amplify-%23232F3E)](https://docs.aws.amazon.com/amplify/)
 
 
 ### Development Team
