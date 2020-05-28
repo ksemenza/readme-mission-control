@@ -1,8 +1,8 @@
 # Mission Control BE
-### Lab 23
+### Lab 23 ###
 
-##### Licsence
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
+#### License  
+> ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 ##### Compilers
 > [![build compiler: prismatopia](https://img.shields.io/badge/build%20compiler-prismatopia-ff69b4)](https://github.com/Lambda-School-Labs/prismatopia)
@@ -22,7 +22,7 @@
 > [![deployment: aws amplify](https://img.shields.io/badge/deployment-aws%20amplify-%23232F3E)](https://docs.aws.amazon.com/amplify/)
 
 
-### Development Team
+> ### Development Team
 
 |                                          [Kim Semenza](http://ksemenza.me/)                                          |                                          [Humaira Syed](https://silvermaiden.github.io/portfolio-website/)                                           |                                             [David Ray Jr.](https://dapthedev.com/home)                                             |                                             [Jojo Zhang](https://www.jojozhangdev.com/)
 | :--------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |  :------------------------------------------------------------------------------------------------------------------------------------: |
@@ -30,7 +30,7 @@
 |                     [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/ksemenza)                     |                       [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/SilverMaiden)                        |                        [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Dlray89)                        |                        [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/nomadkitty)
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/kim-semenza-2b4961199) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](http://www.linkedin.com/in/humaira-syed) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/dapperdave1914) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jojo-zhang) |
 
-### Support Staff
+> ### Support Staff
 
    Position |   Name   
 ----------- | -----------
@@ -41,24 +41,22 @@ Engineer Manager | Ryan Hamblin
 Architecture Manager | Bernie Durfee
   Stakeholder | Jess Martin
 
-## Overview
+> ## Overview
 
 
 Mission Control is a system that provisions, tracks, monitors and controls all of the IT resources (virtual, physical, non-physical and logical) for every product built and maintained by your organization. It allows you to keep tabs on deadlines, team members, costs, and everything you need to push your product across the finish line.
 
 When operating at scale, it's easy to get lost in a sea of information. Mission Control provides the clarity and centralization you need to assess your team's productivity and make executive decisions. Mission Control is a one-stop-shop that allows you to get the information you need and focus on what matters most - execution.
 
-### Features Add
+> ### Features Add
 
-- Not just for products - we also track your projects, allowing for a top-level view of your organization
-- For admins - the ability to view every single product and project in your organization w/ related APIs
-- For users - the ability to see the projects that they themselves are attached to, allowing for a seamless and lightweight environment
-- Simple user promotion - admins can promote and demote other users in a snap
-- Sync with your data - simply sign up with your work email address, and your data will sync automatically with your database
+- FEATURE 1
+- FEATURE 2
+- FEATURE 3
 
 ## Tech Stack Details
 
-### Back end built using:
+### Backend build
 
 #### Prismatopia
 
@@ -91,8 +89,15 @@ When operating at scale, it's easy to get lost in a sea of information. Mission 
 
 - DETAILS HERE
 
+# Setup Instructions
 
-# Environment Variables
+## Running Locally
+
+   - First
+   - Second
+   - Third 
+
+## Environment Variables
 
 There should be a .env file containing the following:'
 
@@ -119,8 +124,6 @@ There should be a .env file containing the following:'
 - [ ] **CODE_CLIMATE_TOKEN**=_Mission Control Specific Environment Variables
 - [ ] **GIT_HUB_API=Mission**=_Control Specific Environment Variables
 - [ ] **GIT_HUB_TOKEN=Mission**=_Control Specific Environment Variables
-
-# Setup Instructions
 
 
 # Contributing
