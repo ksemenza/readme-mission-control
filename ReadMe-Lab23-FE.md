@@ -1,6 +1,6 @@
 # Mission Control
 
-##### Licsence
+> ##### license
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 ##### Frontend Management
