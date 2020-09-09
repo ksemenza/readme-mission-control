@@ -1,9 +1,9 @@
 # Kim Semenza
 ### Guin Dev Produtions
-####  Software Engineer / Full Stack Developer
- [<img src="https://avatars1.githubusercontent.com/u/19755615?s=460&u=aae40d68b0206c4ce2eff6cdba9015a4c2888ad8&v=4" width = "200" />](https://github.com/)   
- [<img src="https://github.com/favicon.ico" width="55"> ](https://github.com/ksemenza)  [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="55" margin="25">](https://www.linkedin.com/in/kim-semenza-2b4961199)
-[<img src="https://www.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" height="55">](https://www.linkedin.com/in/kim-semenza-2b4961199)
+####  Software Engineer / Full Stack Developer 
+[<p align="center"> <img src="https://avatars1.githubusercontent.com/u/19755615?s=460&u=aae40d68b0206c4ce2eff6cdba9015a4c2888ad8&v=4" width = "200" /></p>] 
+ [<p align="center"> <img src="https://github.com/favicon.ico" width="25"></p> ](https://github.com/ksemenza)  [<p align="center"><img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25" ></p>](https://www.linkedin.com/in/kim-semenza-2b4961199)
+[<p align="center"><img src="https://www.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" height="25"> </p>](https://www.linkedin.com/in/kim-semenza-2b4961199)
 
 
 ##### Frontend Management
