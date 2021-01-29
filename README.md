@@ -2,7 +2,7 @@
 ### Guin Dev Produtions
 ####  Software Engineer / Full Stack Developer 
 
- [ <p align="center"> <img src="https://github.com/favicon.ico" width="25"></p> ](https://github.com/ksemenza)  
+ [ <p align="center"> <img src="https://github.com/favicon.ico" width="25"></p> ](https://github.com/ksemenza)  |
  [<p align="center"><img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25" ></p>](https://www.linkedin.com/in/kim-semenza-2b4961199)
 [<p align="center"><img src="https://www.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" height="25"> </p>](https://www.linkedin.com/in/kim-semenza-2b4961199)
 
